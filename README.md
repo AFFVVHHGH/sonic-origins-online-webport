@@ -2,3 +2,4 @@ Welcome to my remake of sonic origins! This is a web project meant to simulate S
 Links to my project:
 Vercel:https://sonic-origins-online-webport.vercel.app/
 Github:https://affvvhhgh.github.io/sonic-origins-online-webport/
+Netlify:https://sonic-origins-online-webport.netlify.app/
